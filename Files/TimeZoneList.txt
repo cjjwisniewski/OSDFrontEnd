@@ -1,0 +1,5 @@
+(GMT-05:00) Eastern Time (US and Canada)
+(GMT-06:00) Central Time (US and Canada)
+(GMT-07:00) Mountain Time (US and Canada)
+(GMT-07:00) Arizona
+(GMT-08:00) Pacific Time (US and Canada); Tijuana
